@@ -29,7 +29,7 @@
 
      🤔 Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement et justifications
      
-     **C'est une expérience vraiment amusante et facile d'accès à tous ceux qui en on envie. Je me suis bien amusé l'histoire est agréable et les actions qu'on nous demande de faire pour Motto son simple je me suis beaucoup amusé avec l'interupteur de ma cambre.**
+**C'est une expérience vraiment amusante et facile d'accès à tous ceux qui en on envie. Je me suis bien amusé l'histoire est agréable et les actions qu'on nous demande de faire pour Motto son simple je me suis beaucoup amusé avec l'interupteur de ma cambre.**
 
  Références
  
