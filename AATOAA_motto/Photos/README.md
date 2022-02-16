@@ -1,1 +1,1 @@
-Ce dossier contient les photos prisent de l'expérience.
+Ce dossier contient les photos prise de l'expérience.
