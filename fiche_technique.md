@@ -1,19 +1,19 @@
  # fiche technique
  
- Titre de l'oeuvre ou de la réalisation : **MOTTO
+ Titre de l'oeuvre ou de la réalisation : **MOTTO**
 
- Nom de l'artiste ou de la firme : **AATOAA
+ Nom de l'artiste ou de la firme : **AATOAA**
 
- Année de réalisation : **2020
+ Année de réalisation : **2020**
 
- Nom de l'exposition ou de l'événement: **MOTTO
+ Nom de l'exposition ou de l'événement: **MOTTO**
 
- Lieu de mise en exposition : **le web
+ Lieu de mise en exposition : **le web**
 
- Date de votre visite : **16 Février 2016
+ Date de votre visite : **16 Février 2016**
 
  Description de l'oeuvre ou du dispositif multimédia (à composer ou reprendre la description offerte sur le site de l'artiste ou le cartel de l'exposition en citant bien sa source) : 
-**Motto est une aventure extraordinaire et unique en son genre. Ce livre interactif, composé de milliers de petites vidéos, raconte le parcours millénaire d’un sympathique esprit nommé Septembre. À mi-chemin entre une histoire de fantôme et une chasse au trésor, Motto oscille entre le documentaire et la fiction, tissant les images créées par chaque participant dans la trame émotive de son récit. L’œuvre agit comme un prisme qui, par les multiples réfractions de l’imaginaire de tous les utilisateurs, transforme continuellement leur perception du monde. Source (https://aatoaa.com/fr.html)
+**Motto est une aventure extraordinaire et unique en son genre. Ce livre interactif, composé de milliers de petites vidéos, raconte le parcours millénaire d’un sympathique esprit nommé Septembre. À mi-chemin entre une histoire de fantôme et une chasse au trésor, Motto oscille entre le documentaire et la fiction, tissant les images créées par chaque participant dans la trame émotive de son récit. L’œuvre agit comme un prisme qui, par les multiples réfractions de l’imaginaire de tous les utilisateurs, transforme continuellement leur perception du monde. Source (https://aatoaa.com/fr.html)**
 
  Explications sur la mise en espace de l'oeuvre ou du dispositif (texte à composer)
 
