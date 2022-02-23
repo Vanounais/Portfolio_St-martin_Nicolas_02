@@ -13,4 +13,5 @@ l'histoire est intéressante à suivre que ce soit a l'extérieur ou à l'intér
 
 # Description de l'oeuvre :
 Motto est une aventure extraordinaire et unique en son genre. Ce livre interactif, composé de milliers de petites vidéos, raconte le parcours millénaire d’un sympathique esprit nommé Septembre. À mi-chemin entre une histoire de fantôme et une chasse au trésor, Motto oscille entre le documentaire et la fiction, tissant les images créées par chaque participant dans la trame émotive de son récit. L’œuvre agit comme un prisme qui, par les multiples réfractions de l’imaginaire de tous les utilisateurs, transforme continuellement leur perception du monde. Cette description est tirée du site d'aatoaa. (https://aatoaa.com/fr.html)  
-![selfie](Photos/selfie.jpg)
+![aspect](Photos/aspect.jpeg)  
+
