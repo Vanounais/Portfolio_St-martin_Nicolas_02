@@ -8,6 +8,7 @@ J'ai bien aimé le conecept je me suis prêter au jeu plus que je ne l'aurais cr
 Enfin, j'ai presque tout donner...  
 l'histoire est intéressante à suivre que ce soit a l'extérieur ou à l'intérieur les actions qu'on nous demande de faire sont facile à réaliser, j'ai bien aimé.  
 ![photographie](Photos/photographie.jpeg)  
+Rien ne m'a vraiment déplus chez Motto mais si je dois vraiment donner quelque chose, moi je laisserais un peu plus de temps à mes utilisateurs avec mon site avant de leur demander de prendre des photos de leurs pieds, on sait sait jamais ça pourrait en efrayer quelque-uns.
 
 
 
