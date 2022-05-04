@@ -4,7 +4,7 @@ La création de l'oeuvre a débuté quand ils se sont rencontré en 1990.
 Le public peut obeserver librement les projections pendant les soirs de fin de semaine dans le secteur du vieu Montréal.  
 
 ## Mon expérience
-oskour  
+Je trouve que c'est un projet vraiment pertinent car il permet à n'importe qui d'en apprendre un peu plus sur l'histoire de montréal d'une manière divertissante et agréable. j'ai bien apprécier que l'oeuvre soit vraiment simple d'utilisation puisque il suffit de s'approcher d'une oeuvre avec l'application d'ouverte pour qu'elle te propose elle même de s'installer et commencer. Cela dis, personnellement j'aurais éviter de positionnez une projection dans une ruelle vide ou personne ne passe puisque dans la plupart des cas les personnes, moi incluant, ne s'y aventurerons pas si ils sont seul.  
 ![projection](medias/projectionsmall.jpg)
 
 ## Description de l'oeuvre
