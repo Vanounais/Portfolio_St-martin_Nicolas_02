@@ -1,1 +1,1 @@
-Ce dossier contient les croquis concernant l'oeuvre en question.
+Ce dossier contient les croquis ce l'oeuvre en question.
