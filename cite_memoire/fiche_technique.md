@@ -13,8 +13,10 @@ Librement inspirée de l’histoire de Montréal, Cité Mémoire vous convie à 
 *Cette description est tirée du site de Cité Mémoire. (https://www.montrealenhistoires.com/cite_memoire/#oeuvre)* 
 
 ### Description technique de l'oeuvre
-oskour
+oskour  
+![trajet](medias/trajet.jpg)
 
 ### Ce qui est nécessaire pour l'expérience
 l'oeuvre n'est disponoble que de 20:15 à 23:00 les soirs de fin de semaine et vous aurez besoin d'installer l'application Montréal en histoire pour trouver et activer les différente projections qui se cache dans le vieu montréal. Vous devez également vous trouver a proximité d'une projection pour être en mesure de l'activer.  
+![acceuil](medias/acceuil.PNG)
 ![menu](medias/menu.PNG)
