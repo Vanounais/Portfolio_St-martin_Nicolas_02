@@ -13,7 +13,7 @@ Librement inspirée de l’histoire de Montréal, Cité Mémoire vous convie à 
 *Cette description est tirée du site de Cité Mémoire. (https://www.montrealenhistoires.com/cite_memoire/#oeuvre)* 
 
 ### Description technique de l'oeuvre
-oskour  
+
 ![trajet](medias/trajet.jpg)
 
 ### Ce qui est nécessaire pour l'expérience
