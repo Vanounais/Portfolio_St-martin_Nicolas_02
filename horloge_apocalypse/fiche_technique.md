@@ -16,4 +16,4 @@ horloge de l’apocalypse représente la ligne du temps de l’humanité. Selon 
 
 
 ### Ce qui est nécessaire pour l'expérience
-
+Pour cette oeuvre absolument rien n'est nécessaire pour en faire l'experience, le simple fait d'être présent est bien suffisant.
