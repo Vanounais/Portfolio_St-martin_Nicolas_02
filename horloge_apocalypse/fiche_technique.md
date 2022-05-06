@@ -16,6 +16,7 @@ horloge de l’apocalypse représente la ligne du temps de l’humanité. Selon 
 ![horloge](medias/horloge.jpg)
 
 ### Description technique de l'oeuvre
+Cette oeuvre comporte 3 projections projeter sur le mur avant et les mur du coter du studio, l'horloge et le téléphone sont quand a eux placé au centre. Tout cela fonctionne grace à un mechanisme positionner sous l'horloge qui détecte l'angle de l'aiguil et qui s'assure d'afficher la bonne scène qui vas avec l'angle en question grace a un logiciel. Ont peut donc avancer l'aiguille et la reculer pour qu'elle affiche a chaque fois l'annimation qui est attribué a l'heure qui ait pointé. Lorsque l'aiguille atteint minuit le téléphone sonne et en le saisiant on active une voie qui nous parle ainsi qu'une ne camera qui nous film depuis le plafond. la musique et les lumiere du projet s'active naturellement quand on rentre dans la piece grace a une kinect qui détecte notre arrivé.
 ![camera](medias/camera.jpg)
 ![kinect](medias/kinect.jpg)
 ![light](medias/light.jpg)
