@@ -13,7 +13,7 @@ Librement inspirée de l’histoire de Montréal, Cité Mémoire vous convie à 
 *Cette description est tirée du site de Cité Mémoire. (https://www.montrealenhistoires.com/cite_memoire/#oeuvre)* 
 
 ### Description technique de l'oeuvre
-
+L'oeuvre comporte généralement une ou plusieurs projections qui sont projeter dans des grands espacces sur des murs ou il est facile d'appercevoir les projections. Une fois l'application ouverte et le trajet sélectionné la proximité avec une projection devrais nous notifier pour savoir si on veut lancer la projection et une fois accepter la projection commence par elle même et si il y a du sons il sortira par le téléphone qui a aactivé l'animation. Les projecteur sont généralement bien caché dans un endroit en hauteur ou la vue est suffisament degagé pour pouvoir projeter leurs images.
 ![trajet](medias/trajet.jpg)
 
 ### Ce qui est nécessaire pour l'expérience
